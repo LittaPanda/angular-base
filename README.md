@@ -1,7 +1,7 @@
 angular-base
 ============
 
-Creando una base para crear aplicaciones con angularJS
+Creando una base para desarrollar aplicaciones con angularJS
 
 ================================
 
